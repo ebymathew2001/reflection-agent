@@ -1,0 +1,22 @@
+[
+  {
+    "faqQuestion": 1,
+    "Question": "What is LangGraph and how does it differ from LangChain?"
+  },
+  {
+    "faqQuestion": 2,
+    "Question": "What is a RAG (Retrieval-Augmented Generation) pipeline and when should you use it?"
+  },
+  {
+    "faqQuestion": 3,
+    "Question": "What are vector databases and how do they work?"
+  },
+  {
+    "faqQuestion": 4,
+    "Question": "What is an AI agent and how does it make decisions?"
+  },
+  {
+    "faqQuestion": 5,
+    "Question": "What is the difference between fine-tuning and prompt engineering in LLMs?"
+  }
+]
