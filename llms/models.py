@@ -22,7 +22,7 @@ from langchain_ollama import ChatOllama
 load_dotenv()
 
 # ─────────────────────────────────────────────
-# Node 1 — Generator LLM (Google Gemini)
+# Node 1 — Generator LLM (Ollama)
 # Used in: nodes/generator_node.py
 # Role:    Produce a detailed answer to each FAQ question
 # ─────────────────────────────────────────────

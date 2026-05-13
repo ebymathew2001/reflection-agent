@@ -106,7 +106,7 @@ def print_summary(results: list) -> None:
 def main() -> None:
     """Main execution function."""
     print("\n" + "=" * 60)
-    print("  FAQ Reflection Agent  |  LangGraph + Gemini + Groq")
+    print("  FAQ Reflection Agent  |  LangGraph + Ollama + Groq")
     print("=" * 60 + "\n")
 
     # ── Step 1: Load questions ────────────────────────────────────────────
